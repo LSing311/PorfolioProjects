@@ -1,3 +1,6 @@
+-- ATA Covid Portfolio Project
+-- Data up to 2023-05-31 --
+
 SELECT * 
 FROM [PortfolioProject-COVID].dbo.CovidDeaths
 WHERE continent IS NOT NULL
